@@ -23,8 +23,3 @@ This is a weather application that fetches current weather information based on 
 - Error handling needs improvement for different edge cases.
 - No persistent storage for multiple locations.
 
-## Screenshots
-(Add screenshots or screen recordings here)
-
-## Live Demo
-[Live Demo Link](#)
